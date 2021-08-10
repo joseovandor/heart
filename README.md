@@ -1,2 +1,2 @@
 # heart
-tamaño del corazon de los gatos
+tamaño del peso de los gatos
